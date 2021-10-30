@@ -1,2 +1,2 @@
 # Ninja-Algos
-This repo is basically a compilation of highly used and important algos🚀.
+This repo is basically a compilation of highly useful and important algos🚀.
